@@ -69,4 +69,6 @@ pong-game/
 
 This project was built following tutorials and teachings by **Angela Yu**, whose comprehensive Python course provided the foundational knowledge for game development concepts and object-oriented programming principles used in this implementation.
 
+📚 **Course**: [100 Days of Code - Day 22: Pong Game](https://www.udemy.com/course/100-days-of-code/learn/lecture/20342613?start=1#overview)
+
 Created as part of Python learning journey focusing on game development fundamentals.
