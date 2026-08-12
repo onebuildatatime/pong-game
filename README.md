@@ -60,6 +60,4 @@ pong-game/
 - High score tracking
 
 ---
-
-**Learning Status**: In progress 🚀  
 Created as part of Python learning journey focusing on game development fundamentals.
