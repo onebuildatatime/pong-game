@@ -55,14 +55,6 @@ pong-game/
 - Python 3.x
 - `turtle` (built-in, no installation needed)
 
-## Future Improvements
-
-- AI opponent for single-player mode
-- Difficulty levels with adjustable ball speed
-- Sound effects
-- Game pause functionality
-- High score tracking
-
 ---
 
 ## Credits
