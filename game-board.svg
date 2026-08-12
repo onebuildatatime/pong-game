@@ -57,5 +57,5 @@
   <text class="score" x="600" y="100" text-anchor="middle">0</text>
 
   <!-- Labels -->
-  <text class="label" x="400" y="380" text-anchor="middle">Arrow Keys / Z-S to Move</text>
+  <text class="label" x="400" y="380" text-anchor="middle">Z-S / Arrow Keys to Move</text>
 </svg>
