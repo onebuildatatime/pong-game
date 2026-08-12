@@ -64,4 +64,9 @@ pong-game/
 - High score tracking
 
 ---
+
+## Credits
+
+This project was built following tutorials and teachings by **Angela Yu**, whose comprehensive Python course provided the foundational knowledge for game development concepts and object-oriented programming principles used in this implementation.
+
 Created as part of Python learning journey focusing on game development fundamentals.
