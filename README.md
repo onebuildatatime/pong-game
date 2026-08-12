@@ -10,7 +10,18 @@ A classic Pong game implementation built with Python's `turtle` module. This is 
 - **Collision detection**: Accurate detection for wall bounces and paddle hits
 - **Clean architecture**: Code organized into separate classes for Ball, Paddle, and Scoreboard
 
-## Game Board
+## Game Screenshots
+
+### Start Screen
+![Pong Start Screen](screenshots/01-start-screen.png)
+
+### Active Gameplay
+![Active Game](screenshots/02-gameplay.png)
+
+### Intense Rally
+![Intense Moment](screenshots/03-intense-moment.png)
+
+## Game Board Layout
 
 ![Pong Game Board Diagram](game-board.svg)
 
